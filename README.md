@@ -4,7 +4,7 @@ This repository contains curated problem statements for different domains aimed 
 
 ### Problem Statement Doc:
 Kindly Download this document to understand the problem statements and other details about the project. 
-[Download Problem Statement](https://drive.google.com/file/d/1mKKXUdLILPwOYuB_6IrBmDJBfiluf5ab/view?usp=sharing](https://docs.google.com/document/d/1bxygzAaQT-xenNA0nEpcB9XVZWP0FXdHa1c5gzPx1fo/edit?usp=sharing)
+[Download Problem Statement](https://docs.google.com/document/d/1bxygzAaQT-xenNA0nEpcB9XVZWP0FXdHa1c5gzPx1fo/edit?usp=sharing)
 ---
 
 ## 🎨 UI/UX Design Task
